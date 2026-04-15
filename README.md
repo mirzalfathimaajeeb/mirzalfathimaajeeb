@@ -1,9 +1,9 @@
 # Hi there, I'm Mirsal Fathima Ajeeb! 👋
-🎓 BCA Student at Saintgits College of Applied Sciences, Kottayam, Kerala  
+🎓 BCA Student (3rd Year) | Specializing in Data Science — Saintgits College of Applied Sciences, Kottayam, Kerala  
 💡 Aspiring Data Analyst | Data Science Enthusiast  
-🌱 Currently exploring: Python for Data Analysis & Machine Learning  
+🌱 Entering 3rd Year | Deepening my Data Science specialization  
 💼 Open to Internships, Part-Time & Freelance opportunities  
-📧 Reach me at: mirzalfathimaajeeb@gmail.com  
+📧 Reach me at: mirzalfathimaajeeb@gmail.com 
 
 ---
 
