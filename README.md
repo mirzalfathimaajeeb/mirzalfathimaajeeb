@@ -28,6 +28,7 @@
 ---
 
 ## 🔗 Connect With Me
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mirzalfathimaajeeb@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirsal-fathima-ajeeb-5646b630a)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=mirzalfathimaajeeb&color=blue)
