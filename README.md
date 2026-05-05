@@ -23,9 +23,16 @@
 
 ## 📊 GitHub Stats
 
-![Mirsal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mirzalfathimaajeeb&show_icons=true&theme=tokyonight&cache_seconds=86400)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mirzalfathimaajeeb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzalfathimaajeeb&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mirzalfathimaajeeb&layout=compact&theme=tokyonight&cache_seconds=86400)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mirzalfathimaajeeb&theme=tokyonight&hide_border=true" width="60%" />
+</p>
+
+---
 
 ## 🔗 Connect With Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mirzalfathimaajeeb@gmail.com)
