@@ -22,10 +22,10 @@
 ---
 
 ## 📊 GitHub Stats
-![Mirsal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mirzalfathimaajeeb&show_icons=true&theme=tokyonight&v=2)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mirzalfathimaajeeb&layout=compact&theme=tokyonight&v=2)
----
+![Mirsal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mirzalfathimaajeeb&show_icons=true&theme=tokyonight&cache_seconds=86400)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mirzalfathimaajeeb&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ## 🔗 Connect With Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mirzalfathimaajeeb@gmail.com)
